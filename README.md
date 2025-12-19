@@ -53,3 +53,22 @@ while (dev.isCoding() && dev.isStuck()) {
   dev.solveProblem?.();
   dev.learnSomethingNew?.();
 }
+```
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ps-vardhan&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ps-vardhan&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ps-vardhan&theme=tokyonight" />
+</p>
+
+![Snake animation](https://github.com/ps-vardhan/ps-vardhan/blob/output/github-contribution-grid-snake.svg)
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
+</p>
