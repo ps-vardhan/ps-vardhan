@@ -54,6 +54,13 @@ while (dev.isCoding() && dev.isStuck()) {
   dev.learnSomethingNew?.();
 }
 ```
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ps-vardhan&theme=tokyo-night"
+    alt="GitHub Activity Graph"
+  />
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ps-vardhan&show_icons=true&theme=tokyonight" />
 </p>
@@ -66,9 +73,3 @@ while (dev.isCoding() && dev.isStuck()) {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ps-vardhan&theme=tokyonight" />
 </p>
 
-![Snake animation](https://github.com/ps-vardhan/ps-vardhan/blob/output/github-contribution-grid-snake.svg)
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
-</p>
