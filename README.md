@@ -5,7 +5,7 @@
 
 <!-- Header GIF -->
 <p align="center">
-  <img src="ps-vardhan\Developer.gif" width="280px">
+  <img src="\Developer.gif" width="280px">
 </p>
 
 <!-- Connect With Me -->
