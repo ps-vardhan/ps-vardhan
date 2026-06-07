@@ -49,7 +49,7 @@ Full-stack developer focused on building robust, scalable backend architectures 
 
 <p align="center">
   <a href="https://github.com/ps-vardhan">
-    <img src="https://github-readme-stats.vercel.app/api?username=ps-vardhan&show_icons=true&count_private=true&theme=tokyonight&locale=en" alt="Saivardhan's GitHub Stats" height="190" />
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=ps-vardhan&show_icons=true&count_private=true&theme=tokyonight&locale=en" alt="Saivardhan's GitHub Stats" height="190" />
   </a>
   <a href="https://github.com/ps-vardhan">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ps-vardhan&theme=tokyonight" alt="Saivardhan's GitHub Streak" height="190" />
@@ -58,7 +58,7 @@ Full-stack developer focused on building robust, scalable backend architectures 
 
 <p align="center">
   <a href="https://github.com/ps-vardhan">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ps-vardhan&show_icons=true&theme=tokyonight&locale=en&layout=compact&langs_count=8" alt="Saivardhan's Top Languages" height="140" />
+    <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=ps-vardhan&show_icons=true&theme=tokyonight&locale=en&layout=compact&langs_count=8" alt="Saivardhan's Top Languages" height="140" />
   </a>
 </p>
 
