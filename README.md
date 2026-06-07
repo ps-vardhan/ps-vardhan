@@ -62,6 +62,3 @@ Full-stack developer focused on building robust, scalable backend architectures 
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ps-vardhan&theme=tokyonight" alt="Saivardhan's Contribution Activity Graph" width="100%" />
-</p>
